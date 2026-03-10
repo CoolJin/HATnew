@@ -1,0 +1,336 @@
+{
+    "nav": {
+        "home": "Home",
+        "services": "Leistungen",
+        "projects": "Projekte",
+        "about": "Über uns",
+        "contact": "Kontakt"
+    },
+    "home": {
+        "hero": {
+            "location": "Ruppertshofen · Deutschland",
+            "title": "Ihr Partner für",
+            "titleHighlight": "Automatisierung",
+            "subtitle": "Seit mehreren Jahren entwickeln und produzieren wir Komponenten, Maschinen und Anlagen für Montage- und Prozessautomation. Von CAD-Zeichnung bis Inbetriebnahme –",
+            "subtitleBold": "alles aus einer Hand.",
+            "ctaServices": "Unsere Leistungen",
+            "ctaContact": "Kontakt aufnehmen"
+        },
+        "services": {
+            "heading": "Was wir",
+            "headingHighlight": "bieten",
+            "sondermaschinenbau": {
+                "title": "Sondermaschinenbau",
+                "desc": "Montagemaschinen, Prüfstationen und Vereinzelungssysteme – individuell gefertigt nach Ihren Anforderungen."
+            },
+            "steuerungsbau": {
+                "title": "Steuerungsbau",
+                "desc": "Auslegung, Aufbau und Programmierung von Steuerungskomponenten und kompletten Schaltkastensystemen."
+            },
+            "retrofit": {
+                "title": "Retrofit",
+                "desc": "Mechanischer und elektrischer Umbau sowie Modernisierung bestehender Maschinen auf aktuellen Stand der Technik."
+            },
+            "verpackungsmaschinen": {
+                "title": "Verpackungsmaschinen",
+                "desc": "Entwicklung und Realisierung kundenspezifischer Verpackungslösungen für unterschiedlichste Industriebranchen."
+            },
+            "mechanikElektrik": {
+                "title": "Mechanik & Elektrik",
+                "desc": "Technische Zeichnungen, CAD-Konstruktion, Elektroplanung und mechanische Fertigung aus einer Hand."
+            },
+            "vollservice": {
+                "title": "Vollservice",
+                "desc": "Von Entwurf bis Inbetriebnahme: CAD-Zeichnungen, Elektropläne, Programmierung, Montage – alles aus einer Hand."
+            }
+        },
+        "cta": {
+            "heading": "Bereit für Ihr nächstes Projekt?",
+            "subtitle": "Kontaktieren Sie uns – gemeinsam finden wir die optimale Lösung für Ihre Anforderungen.",
+            "button": "Jetzt Kontakt aufnehmen"
+        }
+    },
+    "leistungen": {
+        "heading": "Unsere",
+        "headingHighlight": "Leistungen",
+        "subtitle": "Von Entwurf und Konstruktion über montage bis Inbetriebnahme bieten wir Ihnen alles aus einer Hand.",
+        "details": "Details ansehen",
+        "items": {
+            "sondermaschinenbau": {
+                "title": "Sondermaschinenbau",
+                "tagline": "Individuelle Maschinen & Anlagen nach Maß",
+                "summary": "Von der Beratung über Konstruktion bis zur Inbetriebnahme – wir entwickeln und fertigen kundenspezifische Sondermaschinen für nahezu alle Branchen. Alles aus einer Hand.",
+                "highlights": [
+                    "Montagemaschinen",
+                    "Dichtheitsprüfanlagen",
+                    "Prüf- & Messstationen",
+                    "Vereinzelungssysteme"
+                ]
+            },
+            "verpackungsmaschinen": {
+                "title": "Verpackungsmaschinen",
+                "tagline": "Schlauchbeutelverpackung für jedes Produkt",
+                "summary": "Wir fertigen passende Verpackungsmaschinen nach Ihren Anforderungen – vertikal oder horizontal, mit umfangreichem Zubehör zur vollständigen Prozessintegration.",
+                "highlights": [
+                    "Vertikale Schlauchbeutelmaschinen",
+                    "Horizontale Schlauchbeutelmaschinen",
+                    "Wiege- & Zählautomaten",
+                    "Retrofit von Verpackungsmaschinen"
+                ]
+            },
+            "retrofit": {
+                "title": "Retrofit",
+                "tagline": "Alte Maschinen, neue Effizienz",
+                "summary": "Bestehende Maschinen modernisieren statt neu kaufen: Wir bringen Ihre Anlage mechanisch und elektrisch auf den neuesten Stand – nach EU-Maschinenrichtlinien.",
+                "highlights": [
+                    "Mechanische Überholung",
+                    "Steuerungserneuerung",
+                    "EU-Sicherheitsnormen",
+                    "Automatisierung"
+                ]
+            },
+            "steuerungsbau": {
+                "title": "Steuerungsbau",
+                "tagline": "Von der Planung bis zur Inbetriebnahme",
+                "summary": "Elektrik, Pneumatik, SPS-Programmierung oder Visualisierung – wir übernehmen den kompletten steuertechnischen Teil für Ihre Anlage.",
+                "highlights": [
+                    "Schaltschrankbau",
+                    "SPS-Programmierung",
+                    "Visualisierung / HMI",
+                    "Antriebstechnik"
+                ]
+            },
+            "dienstleistungenMechanik": {
+                "title": "Dienstleistungen Mechanik",
+                "tagline": "Konstruktion, Montage & mehr",
+                "summary": "Langjährige Erfahrung in mechanischer Konstruktion und Montage: Wir unterstützen Sie von der ersten Skizze bis zur fertigen Baugruppe.",
+                "highlights": [
+                    "CAD-Konstruktion & Simulation",
+                    "Fertigungsgerechte Zeichnungen",
+                    "Teilebeschaffung",
+                    "Mechanische Reparatur & Montage"
+                ]
+            },
+            "dienstleistungenElektrik": {
+                "title": "Dienstleistungen Elektrik",
+                "tagline": "Elektrische Planung & Verdrahtung",
+                "summary": "Keine eigene Elektroabteilung? Wir übernehmen Verdrahtung, Elektrokonstruktion und Dokumentation – auch für EPLAN Electric P8.",
+                "highlights": [
+                    "Steuerschrankverdrahtung",
+                    "EPLAN Electric P8",
+                    "Elektrokonstruktion",
+                    "Nachdokumentation"
+                ]
+            }
+        }
+    },
+    "leistungDetail": {
+        "back": "Zurück zu Leistungen",
+        "highlights": "Highlights",
+        "contact": {
+            "heading": "Interesse geweckt?",
+            "subtitle": "Wir beraten Sie gerne zu diesem Leistungsbereich.",
+            "button": "Jetzt Kontakt aufnehmen"
+        },
+        "content": {
+            "retrofit": {
+                "flowText": "Haben Sie eine Maschine, die mechanisch noch robust und zuverlässig ist, aber deren Arbeitsabläufe veraltet sind oder die nicht mehr den aktuellen EU-Maschinenrichtlinien entspricht? Die Neuanschaffung ist zu teuer? Wir modernisieren Ihre bestehende Anlage gezielt – für mehr Effizienz, Reproduzierbarkeit und Sicherheit. Ein Retrofit spart Kosten und verlängert die Lebensdauer Ihrer Investition erheblich.",
+                "sections": [
+                    {
+                        "heading": "Was wir modernisieren",
+                        "items": [
+                            "Mechanische Überholung und Optimierung der Anlagenkomponenten",
+                            "Erneuerung / Austausch abgekündigter Teile und Baugruppen",
+                            "Neue Steuerung (SPS, HMI, Sicherheitsrelais)",
+                            "Anpassung an aktuelle EU-Maschinenrichtlinien und Sicherheitsnormen",
+                            "Automatisierung von manuellen Prozessschritten",
+                            "Neue Lackierung und optische Überarbeitung",
+                            "Vollständige Dokumentation der durchgeführten Änderungen"
+                        ]
+                    }
+                ]
+            },
+            "special-machinery": {
+                "flowText": "Jede Ihrer Aufgaben bekommt bei uns eine individuelle Sonderlösung – ob Maschine oder Vorrichtung, Montage- oder Prüfstation. Von der ersten Beratung über Konstruktion, Teilefertigung und Montage bis hin zu Programmierung, Inbetriebnahme und Schulung: alles kommt aus einer Hand.",
+                "sections": [
+                    {
+                        "heading": "Unsere Zielbranchen",
+                        "items": [
+                            "Automobilindustrie & Automobilzulieferer: Montagemaschinen, Dichtheitsprüfanlagen, Befettungssysteme, optische/elektronische/mechanische Prüfvorrichtungen, Dauerlaufmaschinen, Funktionsprüfvorrichtungen, Schweißvorrichtungen",
+                            "Maschinenbau: Maschinenkomponenten, Steuerungen, Vorrichtungen",
+                            "Aluminium-Druckgussbetriebe: Zuführ- und Abführsysteme, Dichtheitsprüfanlagen, Montagemaschinen, Sonder-Zerspanungsmaschinen, Gravierautomaten",
+                            "Kunststoffspritzgussbetriebe: Zuführ- und Abführsysteme, Vereinzelungssysteme, Verpackungsmaschinen, Förderbänder, Portalroboter, Prüf- und Messtechnik",
+                            "Gasdruckfeder- & Dämpferhersteller: Montagevorrichtungen, Druckübersetzer / Druckbooster, Gasfederfüllsysteme",
+                            "Textilindustrie: Montage- und Hilfsvorrichtungen, Sondermaschinen, Verpackungsmaschinen",
+                            "Elektronikindustrie: Dauerlauf- und Funktionsprüfvorrichtungen, Montagevorrichtungen",
+                            "Teilefertiger: Zuführ- und Abführsysteme, Portalroboter, Mehrachsroboter, Vereinzelungssysteme, Prüf- und Messvorrichtungen, Spannvorrichtungen",
+                            "Montagebetriebe: Ergonomische Arbeitsplätze, Hilfs- und Montagevorrichtungen"
+                        ]
+                    },
+                    {
+                        "heading": "Leistungsspektrum auf einen Blick",
+                        "items": [
+                            "Montagemaschinen & -anlagen",
+                            "Dichtheitsprüfmaschinen",
+                            "Zerspanungsmaschinen",
+                            "Gravierautomaten",
+                            "Vereinzelungssysteme",
+                            "Zuführ- und Abführsysteme",
+                            "Mess- und Prüfstationen",
+                            "Optische Sortier-, Mess- & Prüftechnik",
+                            "Fördertechnik",
+                            "Montagevorrichtungen",
+                            "Dauerlaufprüfvorrichtungen",
+                            "Ergonomische Arbeitsplatzsysteme",
+                            "Schlauchbeutelverpackungsmaschinen",
+                            "Maschinen für Dämpfer- & Gasdruckfederproduktion",
+                            "Schweißvorrichtungen",
+                            "Druckübersetzer / Druckbooster",
+                            "Füllmaschinen",
+                            "Öldosiervorrichtungen"
+                        ]
+                    }
+                ]
+            },
+            "packaging-machines": {
+                "flowText": "Möchten Sie Ihr Produkt verpacken? Wir fertigen Ihnen eine maßgeschneiderte Schlauchbeutelverpackungsmaschine – angepasst an Ihr Produkt, Ihren Prozess und Ihre Produktionslinie. Wir bieten zwei Grundtypen (vertikal & horizontal), die sich individuell konfigurieren und mit umfangreichem Zubehör erweitern lassen. Sie beschreiben uns die Aufgabe – wir liefern die Lösung.",
+                "sections": [
+                    {
+                        "heading": "Maschinentypen",
+                        "items": [
+                            "Vertikale Schlauchbeutelverpackungsmaschinen: für leichtes bis mittelschweres Verpackungsgut (bis ca. 500 g), granulatförmige Produkte sowie kleine bis mittelgroße Teile (längste Seite bis ca. 150–200 mm)",
+                            "Horizontale Schlauchbeutelverpackungsmaschinen: für leichtes bis schweres sowie kleine bis sperrige Produkte"
+                        ]
+                    },
+                    {
+                        "heading": "Zubehör & Erweiterungen",
+                        "items": [
+                            "Pack- / Sortiertische",
+                            "Reiteraufsetzmaschinen",
+                            "Förderbänder zur Produkt-Zu- und -Abfuhr",
+                            "Vereinzelungssysteme",
+                            "Wiege- und Zählautomaten",
+                            "Markier- / Kennzeichnungssysteme",
+                            "Retrofit von Verpackungsmaschinen",
+                            "Reparatur / Montage / Service"
+                        ]
+                    }
+                ]
+            },
+            "control-engineering": {
+                "flowText": "Nicht immer ist eine komplette Maschine gefragt – manchmal genügt es, den steuertechnischen Teil zu erneuern oder neu aufzubauen. Ob Elektrik, Pneumatik, Visualisierung oder Antriebstechnik: Wir planen, bauen und programmieren die passende Steuerung für Ihre Anlage – von der einfachen Schalttafel bis zur komplexen Mehrachssteuerung. Sprechen Sie uns an.",
+                "sections": [
+                    {
+                        "heading": "Leistungsumfang Steuerungsbau",
+                        "items": [
+                            "Auslegung von elektrischen, mechanischen und pneumatischen Steuerungskomponenten",
+                            "Schaltschrankbau nach Kundenvorgabe oder eigener Planung",
+                            "SPS-Programmierung (Siemens S7, TIA Portal, Beckhoff TwinCAT u.a.)",
+                            "Visualisierung und Bedienterminals (HMI)",
+                            "Inbetriebnahme vor Ort",
+                            "Frequenzumrichter, Servotechnik und Antriebstechnik",
+                            "Feldbusse und Netzwerke (PROFIBUS, PROFINET, EtherCAT)"
+                        ]
+                    }
+                ]
+            },
+            "mechanical-services": {
+                "flowText": "Unser Team verfügt über langjährige Erfahrung in mechanischer Konstruktion und Montage. Egal ob Sie Konstruktionsunterstützung, fertige Zeichnungen oder eine vollständige Baugruppenmontage benötigen – wir stehen Ihnen als kompetenter Partner zur Seite und übernehmen so viel oder so wenig, wie Sie brauchen.",
+                "sections": [
+                    {
+                        "heading": "Unsere mechanischen Dienstleistungen",
+                        "items": [
+                            "Entwicklung und Konstruktion von Maschinen, Vorrichtungen und Werkzeugen",
+                            "CAD-Konstruktion in 2D und 3D (Bewegungssimulation, Kollisionsprüfung)",
+                            "Belastungsanalyse und Festigkeitsberechnung",
+                            "Erstellung fertigungsgerechter Zeichnungen, Stück- und Bestelllisten",
+                            "Teilebeschaffung bei bewährten Lieferanten",
+                            "Mechanische Reparatur und Montage",
+                            "Fertigung und Montage von Maschinen, Vorrichtungen und Werkzeugen nach Kundenunterlagen"
+                        ]
+                    }
+                ]
+            },
+            "electrical-services": {
+                "flowText": "Keine eigene Elektroabteilung oder Kapazitätsengpässe im steuerungstechnischen Bereich? Kein Problem – wir übernehmen die elektrischen Dienstleistungen für Sie: von der Verdrahtung über die Konstruktion bis zur lückenlosen Dokumentation. Auch Digitalisierung von Papierplänen und die Pflege bestehender EPLAN-Projekte gehören zu unserem Angebot.",
+                "sections": [
+                    {
+                        "heading": "Unsere elektrischen Dienstleistungen",
+                        "items": [
+                            "Elektrische Verdrahtung von Steuerschränken und Maschinen nach Kundenunterlagen",
+                            "Elektrische Konstruktion durch unsere Kooperationspartner",
+                            "Erstellung von Stück-, Artikel- und Bestelllisten",
+                            "Digitalisierung von Papierplänen in EPLAN Electric P8",
+                            "Nachdokumentation von Änderungen und Erweiterungen in bestehenden Plänen",
+                            "Reparatur und Service von Schützsteuerungen"
+                        ]
+                    }
+                ]
+            }
+        },
+        "prev": "Vorherige Leistung",
+        "next": "Nächste Leistung"
+    },
+    "about": {
+        "heading": "Über",
+        "headingHighlight": "Heinze Automatisierungstechnik",
+        "subtitle": "Wir sind ein Unternehmen im Bereich Automatisierungs- und Sondermaschinenbau mit Sitz in",
+        "subtitleLocation": "Ruppertshofen, Deutschland",
+        "subtitleEnd": "Durch langjährige Erfahrung und überschaubare Strukturen sind hohe Qualität, Flexibilität und Zuverlässigkeit bei unseren Projekten immer inklusive.",
+        "claim": "„Alles aus einer Hand.“",
+        "claimText": "Von Entwurf und Konstruktion über Montage bis Inbetriebnahme: Wir liefern Ihnen jede Komplettlösung nach Ihren Wünschen. Sei es CAD-Zeichnungen, Elektropläne, Elektrik oder Programmierung – bei Heinze Automatisierungstechnik bekommen Sie alles aus einer Hand.",
+        "values": {
+            "erfahrung": {
+                "title": "Erfahrung",
+                "desc": "Langjährige Expertise in der Entwicklung und Produktion von Komponenten, Maschinen und Anlagen für die Industrie."
+            },
+            "qualitaet": {
+                "title": "Qualität",
+                "desc": "Hohe Qualitätsstandards und Zuverlässigkeit bei all unseren Projekten – von der Planung bis zur Inbetriebnahme."
+            },
+            "flexibilitaet": {
+                "title": "Flexibilität",
+                "desc": "Maßgeschneiderte Komplettlösungen, die exakt auf Ihre Anforderungen und Ihr Budget abgestimmt sind."
+            },
+            "zuverlaessigkeit": {
+                "title": "Zuverlässigkeit",
+                "desc": "Termintreue und verlässliche Partnerschaft – wir halten, was wir versprechen, auch bei komplexen Projekten."
+            },
+            "effizienz": {
+                "title": "Effizienz",
+                "desc": "Schlanke Strukturen ermöglichen schnelle Entscheidungswege und flexible Reaktion auf Ihre Anforderungen."
+            },
+            "partnerschaft": {
+                "title": "Partnerschaft",
+                "desc": "Wir sehen uns als langfristigen Partner, nicht nur als Lieferant. Ihr Erfolg ist unser Erfolg."
+            }
+        }
+    },
+    "contact": {
+        "heading": "Kontakt",
+        "headingHighlight": "aufnehmen",
+        "subtitle": "Haben Sie ein Projekt im Kopf oder benötigen Sie eine spezielle Automationslösung? Wir freuen uns auf Ihre Anfrage.",
+        "infoHeading": "Kontaktinformationen",
+        "labels": {
+            "phone": "Telefon",
+            "fax": "Fax",
+            "mobile": "Mobil",
+            "email": "E-Mail",
+            "address": "Adresse"
+        }
+    },
+    "footer": {
+        "tagline": "Ihr kompetenter Partner für Automatisierung, Montage- und Prozesssysteme. Alles aus einer Hand – von Entwurf bis Inbetriebnahme.",
+        "address": "Utzstetter Str. 7/2, 73577 Ruppertshofen",
+        "nav": {
+            "services": "Leistungen",
+            "company": "Unternehmen",
+            "about": "Über uns",
+            "projects": "Projekte",
+            "contact": "Kontakt",
+            "imprint": "Impressum",
+            "privacy": "Datenschutz"
+        },
+        "copyright": "Heinze Automatisierungstechnik. Alle Rechte vorbehalten."
+    }
+}

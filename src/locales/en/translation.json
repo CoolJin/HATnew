@@ -1,0 +1,336 @@
+{
+    "nav": {
+        "home": "Home",
+        "services": "Services",
+        "projects": "Projects",
+        "about": "About Us",
+        "contact": "Contact"
+    },
+    "home": {
+        "hero": {
+            "location": "Ruppertshofen · Germany",
+            "title": "Your Partner for",
+            "titleHighlight": "Automation",
+            "subtitle": "For many years we have been developing and manufacturing components, machines and systems for assembly and process automation. From CAD drawing to commissioning –",
+            "subtitleBold": "everything out of one hand.",
+            "ctaServices": "Our Services",
+            "ctaContact": "Get in Touch"
+        },
+        "services": {
+            "heading": "What we",
+            "headingHighlight": "offer",
+            "sondermaschinenbau": {
+                "title": "Special Machine Construction",
+                "desc": "Assembly machines, test stations and singulation systems – individually manufactured to your requirements."
+            },
+            "steuerungsbau": {
+                "title": "Control Engineering",
+                "desc": "Design, assembly and programming of control components and complete control cabinet systems."
+            },
+            "retrofit": {
+                "title": "Retrofit",
+                "desc": "Mechanical and electrical conversion and modernization of existing machines to the current state of the art."
+            },
+            "verpackungsmaschinen": {
+                "title": "Packaging Machines",
+                "desc": "Development and implementation of customer-specific packaging solutions for a wide range of industries."
+            },
+            "mechanikElektrik": {
+                "title": "Mechanics & Electrics",
+                "desc": "Technical drawings, CAD design, electrical planning and mechanical manufacturing – all out of one hand."
+            },
+            "vollservice": {
+                "title": "Full Service",
+                "desc": "From design to commissioning: CAD drawings, electrical plans, programming, assembly – all out of one hand."
+            }
+        },
+        "cta": {
+            "heading": "Ready for your next project?",
+            "subtitle": "Contact us – together we will find the optimal solution for your requirements.",
+            "button": "Contact Us Now"
+        }
+    },
+    "leistungen": {
+        "heading": "Our",
+        "headingHighlight": "Services",
+        "subtitle": "From design and engineering through assembly to commissioning, we offer you everything out of one hand.",
+        "details": "View Details",
+        "items": {
+            "sondermaschinenbau": {
+                "title": "Special Machine Construction",
+                "tagline": "Custom Machines & Systems",
+                "summary": "From consulting through design to commissioning – we develop and manufacture customer-specific special machines for almost all industries. Everything out of one hand.",
+                "highlights": [
+                    "Assembly Machines",
+                    "Leak Test Systems",
+                    "Test & Measurement Stations",
+                    "Singulation Systems"
+                ]
+            },
+            "verpackungsmaschinen": {
+                "title": "Packaging Machines",
+                "tagline": "Tubular bag packaging for every product",
+                "summary": "We manufacture suitable packaging machines to your specifications – vertical or horizontal, with extensive accessories for complete process integration.",
+                "highlights": [
+                    "Vertical Form-Fill-Seal Machines",
+                    "Horizontal Flow-Wrap Machines",
+                    "Weighing & Counting Automats",
+                    "Retrofit of Packaging Machines"
+                ]
+            },
+            "retrofit": {
+                "title": "Retrofit",
+                "tagline": "Old machines, new efficiency",
+                "summary": "Modernize existing machines instead of buying new: We bring your system up to the latest mechanical and electrical standards – in accordance with EU machinery directives.",
+                "highlights": [
+                    "Mechanical Overhaul",
+                    "Control Renewal",
+                    "EU Safety Standards",
+                    "Automation"
+                ]
+            },
+            "steuerungsbau": {
+                "title": "Control Engineering",
+                "tagline": "From planning to commissioning",
+                "summary": "Electrics, pneumatics, PLC programming or visualization – we take over the complete control technology part for your system.",
+                "highlights": [
+                    "Control Cabinet Construction",
+                    "PLC Programming",
+                    "Visualization / HMI",
+                    "Drive Technology"
+                ]
+            },
+            "dienstleistungenMechanik": {
+                "title": "Mechanical Services",
+                "tagline": "Design, Assembly & more",
+                "summary": "Many years of experience in mechanical design and assembly: We support you from the first sketch to the finished assembly.",
+                "highlights": [
+                    "CAD Design & Simulation",
+                    "Manufacturing Drawings",
+                    "Parts Procurement",
+                    "Mechanical Repair & Assembly"
+                ]
+            },
+            "dienstleistungenElektrik": {
+                "title": "Electrical Services",
+                "tagline": "Electrical Planning & Wiring",
+                "summary": "No in-house electrical department? We handle wiring, electrical design and documentation – also for EPLAN Electric P8.",
+                "highlights": [
+                    "Control Cabinet Wiring",
+                    "EPLAN Electric P8",
+                    "Electrical Design",
+                    "Subsequent Documentation"
+                ]
+            }
+        }
+    },
+    "leistungDetail": {
+        "back": "Back to Services",
+        "highlights": "Highlights",
+        "contact": {
+            "heading": "Interested?",
+            "subtitle": "We are happy to advise you on this service area.",
+            "button": "Contact Us Now"
+        },
+        "content": {
+            "retrofit": {
+                "flowText": "Do you have a machine that is mechanically still robust and reliable, but its processes are outdated or it no longer complies with current EU machinery directives? Buying a new one is too expensive? We specifically modernize your existing system – for greater efficiency, reproducibility, and safety. A retrofit saves costs and significantly extends the life of your investment.",
+                "sections": [
+                    {
+                        "heading": "What we modernize",
+                        "items": [
+                            "Mechanical overhaul and optimization of system components",
+                            "Renewal / replacement of discontinued parts and assemblies",
+                            "New control system (PLC, HMI, safety relays)",
+                            "Adaptation to current EU machinery directives and safety standards",
+                            "Automation of manual process steps",
+                            "New painting and visual refurbishment",
+                            "Complete documentation of the executed modifications"
+                        ]
+                    }
+                ]
+            },
+            "special-machinery": {
+                "flowText": "Every task you have receives an individual special solution from us – whether machine or fixture, assembly or testing station. From initial consultation through design, parts manufacturing and assembly to programming, commissioning and training: everything out of one hand.",
+                "sections": [
+                    {
+                        "heading": "Our Target Industries",
+                        "items": [
+                            "Automotive industry & suppliers: Assembly machines, leak testing systems, lubrication systems, optical/electronic/mechanical test fixtures, endurance testing machines, functional test fixtures, welding fixtures",
+                            "Mechanical engineering: Machine components, controls, fixtures",
+                            "Aluminum die casting plants: Infeed and outfeed systems, leak testing systems, assembly machines, special machining tools, engraving automats",
+                            "Plastic injection molding plants: Infeed and outfeed systems, singulation systems, packaging machines, conveyor belts, gantry robots, testing and measuring technology",
+                            "Gas spring & damper manufacturers: Assembly fixtures, pressure intensifiers / pressure boosters, gas spring filling systems",
+                            "Textile industry: Assembly and auxiliary fixtures, special machines, packaging machines",
+                            "Electronics industry: Endurance and functional testing fixtures, assembly fixtures",
+                            "Parts manufacturers: Infeed and outfeed systems, gantry robots, multi-axis robots, singulation systems, testing and measuring fixtures, clamping fixtures",
+                            "Assembly plants: Ergonomic workplaces, auxiliary and assembly fixtures"
+                        ]
+                    },
+                    {
+                        "heading": "Service Portfolio at a Glance",
+                        "items": [
+                            "Assembly machines & systems",
+                            "Leak testing machines",
+                            "Machining solutions",
+                            "Engraving automats",
+                            "Singulation systems",
+                            "Infeed and outfeed systems",
+                            "Measuring and testing stations",
+                            "Optical sorting, measuring & test technology",
+                            "Conveyor technology",
+                            "Assembly fixtures",
+                            "Endurance test fixtures",
+                            "Ergonomic workplace systems",
+                            "Tubular bag packaging machines",
+                            "Machines for damper & gas spring production",
+                            "Welding fixtures",
+                            "Pressure intensifiers / pressure boosters",
+                            "Filling machines",
+                            "Oil dosing devices"
+                        ]
+                    }
+                ]
+            },
+            "packaging-machines": {
+                "flowText": "Would you like to package your product? We build a customized tubular bag packaging machine for you – perfectly matched to your product, your process, and your production line. We offer two basic types (vertical & horizontal) that can be individually configured and expanded with comprehensive accessories. You describe the task to us – we deliver the solution.",
+                "sections": [
+                    {
+                        "heading": "Machine Types",
+                        "items": [
+                            "Vertical tubular bag packaging machines: for light to mid-weight packaging goods (up to approx. 500 g), granular products, as well as small to medium-sized parts (longest side up to approx. 150-200 mm)",
+                            "Horizontal tubular bag packaging machines: for light to heavy as well as small to bulky products"
+                        ]
+                    },
+                    {
+                        "heading": "Accessories & Extensions",
+                        "items": [
+                            "Packing / sorting tables",
+                            "Header application machines",
+                            "Conveyor belts for product infeed and outfeed",
+                            "Singulation systems",
+                            "Weighing and counting automats",
+                            "Marking / labeling systems",
+                            "Retrofit of packaging machines",
+                            "Repair / Assembly / Service"
+                        ]
+                    }
+                ]
+            },
+            "control-engineering": {
+                "flowText": "A complete machine is not always required – sometimes it is enough to renew or rebuild the control technical part. Whether electrics, pneumatics, visualization or drive technology: We plan, build, and program the suitable control for your plant – from a simple control panel to a complex multi-axis control. Get in touch with us.",
+                "sections": [
+                    {
+                        "heading": "Scope of Services Control Engineering",
+                        "items": [
+                            "Design of electrical, mechanical and pneumatic control components",
+                            "Control cabinet construction according to customer specifications or in-house planning",
+                            "PLC programming (Siemens S7, TIA Portal, Beckhoff TwinCAT, etc.)",
+                            "Visualization and operating terminals (HMI)",
+                            "On-site commissioning",
+                            "Frequency inverters, servo technology and drive technology",
+                            "Fieldbuses and networks (PROFIBUS, PROFINET, EtherCAT)"
+                        ]
+                    }
+                ]
+            },
+            "mechanical-services": {
+                "flowText": "Our team has many years of experience in mechanical design and assembly. Whether you need design support, finished drawings, or complete subassembly mounting – we are your competent partner and take over exactly as much or as little as you need.",
+                "sections": [
+                    {
+                        "heading": "Our Mechanical Services",
+                        "items": [
+                            "Development and design of machines, fixtures, and tools",
+                            "CAD design in 2D and 3D (motion simulation, collision check)",
+                            "Stress analysis and strength calculation",
+                            "Creation of production-ready drawings, bills of materials, and order lists",
+                            "Parts procurement from proven suppliers",
+                            "Mechanical repair and assembly",
+                            "Manufacturing and assembly of machines, fixtures, and tools according to customer documents"
+                        ]
+                    }
+                ]
+            },
+            "electrical-services": {
+                "flowText": "No in-house electrical department or capacity bottlenecks in control engineering? No problem – we take over the electrical services for you: from wiring through design to seamless documentation. The digitization of paper plans and the maintenance of existing EPLAN projects are also part of our offering.",
+                "sections": [
+                    {
+                        "heading": "Our Electrical Services",
+                        "items": [
+                            "Electrical wiring of control cabinets and machines according to customer documents",
+                            "Electrical design by our cooperation partners",
+                            "Creation of bills of materials, article, and order lists",
+                            "Digitization of paper plans in EPLAN Electric P8",
+                            "Subsequent documentation of changes and extensions in existing plans",
+                            "Repair and service of contactor controls"
+                        ]
+                    }
+                ]
+            }
+        },
+        "prev": "Previous Service",
+        "next": "Next Service"
+    },
+    "about": {
+        "heading": "About",
+        "headingHighlight": "Heinze Automatisierungstechnik",
+        "subtitle": "We are a company specializing in automation and special machine construction, headquartered in",
+        "subtitleLocation": "Ruppertshofen, Germany",
+        "subtitleEnd": "Through many years of experience and manageable structures, high quality, flexibility and reliability are always included in our projects.",
+        "claim": "\"Everything out of one hand.\"",
+        "claimText": "From design and engineering through assembly to commissioning: We deliver every complete solution to your wishes. Whether CAD drawings, electrical plans, electrics or programming – at Heinze Automatisierungstechnik you get everything out of one hand.",
+        "values": {
+            "erfahrung": {
+                "title": "Experience",
+                "desc": "Many years of expertise in the development and production of components, machines and systems for industry."
+            },
+            "qualitaet": {
+                "title": "Quality",
+                "desc": "High quality standards and reliability in all our projects – from planning to commissioning."
+            },
+            "flexibilitaet": {
+                "title": "Flexibility",
+                "desc": "Tailor-made complete solutions, precisely tailored to your requirements and budget."
+            },
+            "zuverlaessigkeit": {
+                "title": "Reliability",
+                "desc": "On-time delivery and reliable partnership – we keep what we promise, even with complex projects."
+            },
+            "effizienz": {
+                "title": "Efficiency",
+                "desc": "Lean structures enable fast decision-making and flexible response to your requirements."
+            },
+            "partnerschaft": {
+                "title": "Partnership",
+                "desc": "We see ourselves as a long-term partner, not just a supplier. Your success is our success."
+            }
+        }
+    },
+    "contact": {
+        "heading": "Get in",
+        "headingHighlight": "Touch",
+        "subtitle": "Do you have a project in mind or need a special automation solution? We look forward to your inquiry.",
+        "infoHeading": "Contact Information",
+        "labels": {
+            "phone": "Phone",
+            "fax": "Fax",
+            "mobile": "Mobile",
+            "email": "E-Mail",
+            "address": "Address"
+        }
+    },
+    "footer": {
+        "tagline": "Your competent partner for automation, assembly and process systems. Everything out of one hand – from design to commissioning.",
+        "address": "Utzstetter Str. 7/2, 73577 Ruppertshofen",
+        "nav": {
+            "services": "Services",
+            "company": "Company",
+            "about": "About Us",
+            "projects": "Projects",
+            "contact": "Contact",
+            "imprint": "Imprint",
+            "privacy": "Privacy Policy"
+        },
+        "copyright": "Heinze Automatisierungstechnik. All rights reserved."
+    }
+}
